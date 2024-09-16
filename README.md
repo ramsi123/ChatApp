@@ -1,16 +1,14 @@
-# chat_app
+# Blog App
+Chat application created with flutter and firebase.
 
-A new Flutter project.
+## Tech Stack
+- Flutter
+- Provider
+- Firebase - Authentication
+- Firebase - Firestore Database
 
-## Getting Started
+## Screenshots of the Application (Light Theme)
+<img src="https://i.imgur.com/YtOYAqr.png" height="25%" width="25%" alt="Login Screen"/> <img src="" height="25%" width="25%" alt="Register Screen"/> <img src="" height="25%" width="25%" alt="Home Screen"/> <img src="" height="25%" width="25%" alt="Chat Screen"/> <img src="" height="25%" width="25%" alt="Settings Screen"/> <img src="" height="25%" width="25%" alt="Blocked Users Screen"/> <img src="" height="25%" width="25%" alt="Search User Screen"/> <img src="" height="25%" width="25%" alt="Drawer Screen"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots of the Application (Dark Theme)
+<img src="" height="25%" width="25%" alt="Login Screen"/> <img src="" height="25%" width="25%" alt="Register Screen"/> <img src="" height="25%" width="25%" alt="Home Screen"/> <img src="" height="25%" width="25%" alt="Chat Screen"/> <img src="" height="25%" width="25%" alt="Settings Screen"/> <img src="" height="25%" width="25%" alt="Blocked Users Screen"/> <img src="" height="25%" width="25%" alt="Search User Screen"/> <img src="" height="25%" width="25%" alt="Drawer Screen"/>
